@@ -2,6 +2,9 @@ img {
 
     border-radius: 150px;
     width: 150px;
+    border-width: 1px;
+    border-color: white;
+    border-style: solid;
 }
 
 h2 {
@@ -26,4 +29,8 @@ a{
     border-radius: 10px;
     padding:10px;
     text-decoration:none;
+}
+
+p {
+    font-style: italic;
 }
