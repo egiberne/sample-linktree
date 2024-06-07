@@ -3,7 +3,7 @@
 
 # Sample-LinkTree
 
-Social Media Landing page similar to the website Linktree.
+Code snippet from Linktree-like website built in Bootstrap.
 
 ## Tech Stack
 
@@ -14,13 +14,12 @@ Social Media Landing page similar to the website Linktree.
 
 ## Usage
 
-Just via the web browser
+Web browser
 
 
 ## Lessons Learned
 
-- The fundamental about HTML, CSS has been reviewed.
-- The challenges was to convert the version in HTML and CSS to Boostap.
+The challenges were learning Bootstap.
 
 
 ## License
